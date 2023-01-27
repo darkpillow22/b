@@ -2,5 +2,5 @@
 
 install:
 ```bash
-wget https://raw.githubusercontent.com/darkpillow22/AdGuard-installer/main/install.sh; sudo bash install.sh
+wget https://raw.githubusercontent.com/darkpillow22/b/main/install.sh; sudo bash install.sh
 ```
